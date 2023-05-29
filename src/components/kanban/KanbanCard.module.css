@@ -24,6 +24,10 @@
   padding-left: 4px;
 }
 
+.card_title:hover {
+  color: var(--color-secondary);
+}
+
 .card_email {
   opacity: 0.8;
   overflow-x: hidden;
