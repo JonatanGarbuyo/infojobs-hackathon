@@ -18,7 +18,7 @@ const handler = NextAuth({
         params: {
           scope:
             'MY_APPLICATIONS,CANDIDATE_PROFILE_WITH_EMAIL,CANDIDATE_READ_CURRICULUM_SKILLS,CV',
-          // client_id: process.env.INFOJOBS_CLIENT_ID,
+          client_id: process.env.INFOJOBS_CLIENT_ID,
           redirect_uri: process.env.INFOJOBS_REDIRECT_URI,
           response_type: 'code'
           // state: 'OPTIONAL_CLIENT_LOCAL_STATE'
