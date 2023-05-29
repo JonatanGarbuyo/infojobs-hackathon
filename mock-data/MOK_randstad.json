@@ -246,7 +246,33 @@
       },
       "requirementMin": "",
       "bold": false,
-      "applications": "0",
+      "applications": "6",
+      "applicants": [
+        {
+          "id": 12,
+          "stage": 1
+        },
+        {
+          "id": 22,
+          "stage": 0
+        },
+        {
+          "id": 32,
+          "stage": 2
+        },
+        {
+          "id": 42,
+          "stage": 2
+        },
+        {
+          "id": 2,
+          "stage": 0
+        },
+        {
+          "id": 2,
+          "stage": 5
+        }
+      ],
       "subSegment": 22,
       "executive": false,
       "salaryDescription": "Salario no disponible",
@@ -316,7 +342,33 @@
       },
       "requirementMin": "-Ingeniería eléctrica o similar  - Imprescindible 4 años de experiencia como Ingeniero/a Eléctrico en el el área de calidad del sector automoción   - Valorable conocimiento en Baterías  - Valorable conocimiento en Software   - Nivel de inglés B2  - Nivel de alemán B2",
       "bold": false,
-      "applications": "0",
+      "applications": "6",
+      "applicants": [
+        {
+          "id": 23,
+          "stage": 0
+        },
+        {
+          "id": 33,
+          "stage": 1
+        },
+        {
+          "id": 43,
+          "stage": 0
+        },
+        {
+          "id": 3,
+          "stage": 1
+        },
+        {
+          "id": 4,
+          "stage": 3
+        },
+        {
+          "id": 14,
+          "stage": 5
+        }
+      ],
       "subSegment": 32,
       "executive": false,
       "salaryDescription": "45.000€ - 50.000€ Bruto/año",
@@ -386,7 +438,49 @@
       },
       "requirementMin": "Ingeniería y/o formación profesional  Inglés B2. Muy valorable alemán  Imprescindible 3 años de experiencia en el el área de calidad del sector automoción.",
       "bold": false,
-      "applications": "0",
+      "applications": "10",
+      "applicants": [
+        {
+          "id": 3,
+          "stage": 1
+        },
+        {
+          "id": 7,
+          "stage": 0
+        },
+        {
+          "id": 9,
+          "stage": 2
+        },
+        {
+          "id": 11,
+          "stage": 2
+        },
+        {
+          "id": 13,
+          "stage": 0
+        },
+        {
+          "id": 15,
+          "stage": 3
+        },
+        {
+          "id": 17,
+          "stage": 3
+        },
+        {
+          "id": 19,
+          "stage": 4
+        },
+        {
+          "id": 21,
+          "stage": 4
+        },
+        {
+          "id": 23,
+          "stage": 5
+        }
+      ],
       "subSegment": 22,
       "executive": false,
       "salaryDescription": "33.000€ - 33.000€ Bruto/año",
@@ -456,7 +550,45 @@
       },
       "requirementMin": "-Experiencia mínima de 2 años en un puesto de responsable de tienda (gestión de mas de 4 personas y alto nivel de facturación)   - Experiencia dentro del sector de la moda (se valorará moda textil y complementos, cosmética).   Formación: Ciclo Formativo Grado Superior, otros",
       "bold": false,
-      "applications": "0",
+      "applications": "9",
+      "applicants": [
+        {
+          "id": 7,
+          "stage": 0
+        },
+        {
+          "id": 9,
+          "stage": 2
+        },
+        {
+          "id": 11,
+          "stage": 2
+        },
+        {
+          "id": 13,
+          "stage": 0
+        },
+        {
+          "id": 15,
+          "stage": 3
+        },
+        {
+          "id": 17,
+          "stage": 3
+        },
+        {
+          "id": 19,
+          "stage": 4
+        },
+        {
+          "id": 21,
+          "stage": 4
+        },
+        {
+          "id": 23,
+          "stage": 5
+        }
+      ],
       "subSegment": 22,
       "executive": false,
       "salaryDescription": "Salario no disponible",
@@ -526,7 +658,37 @@
       },
       "requirementMin": "-Inglés mínimo C1 -Experiencia como Ingeniero de proyectos en entorno industrial -Disponibilidad para contrato temporal",
       "bold": false,
-      "applications": "0",
+      "applications": "7",
+      "applicants": [
+        {
+          "id": 12,
+          "stage": 2
+        },
+        {
+          "id": 14,
+          "stage": 0
+        },
+        {
+          "id": 16,
+          "stage": 3
+        },
+        {
+          "id": 18,
+          "stage": 3
+        },
+        {
+          "id": 20,
+          "stage": 4
+        },
+        {
+          "id": 22,
+          "stage": 4
+        },
+        {
+          "id": 24,
+          "stage": 5
+        }
+      ],
       "subSegment": 22,
       "executive": false,
       "salaryDescription": "Salario no disponible",
@@ -596,7 +758,53 @@
       },
       "requirementMin": "-Buen manejo de excel  -SAP y EDI  -Capacidad Analítica.  -Disponibilidad para realizar un contrato TEMPORAL  -Persona extrovertida, cooperativa, con autonomía e iniciativa y con capacidad para trabajar en equipo.  -Capacidad de análisis, metódico y habilidades organizativas para gestionar el día a día.  -Habilidades informáticas, especialmente con nivel medio de Excel.",
       "bold": false,
-      "applications": "0",
+      "applications": "11",
+      "applicants": [
+        {
+          "id": 43,
+          "stage": 0
+        },
+        {
+          "id": 3,
+          "stage": 1
+        },
+        {
+          "id": 7,
+          "stage": 0
+        },
+        {
+          "id": 9,
+          "stage": 2
+        },
+        {
+          "id": 11,
+          "stage": 2
+        },
+        {
+          "id": 13,
+          "stage": 0
+        },
+        {
+          "id": 15,
+          "stage": 3
+        },
+        {
+          "id": 17,
+          "stage": 3
+        },
+        {
+          "id": 19,
+          "stage": 4
+        },
+        {
+          "id": 21,
+          "stage": 4
+        },
+        {
+          "id": 23,
+          "stage": 5
+        }
+      ],
       "subSegment": 22,
       "executive": false,
       "salaryDescription": "24.000€ - 26.000€ Bruto/año",
@@ -666,7 +874,41 @@
       },
       "requirementMin": "",
       "bold": false,
-      "applications": "0",
+      "applications": "9",
+      "applicants": [
+        {
+          "id": 19,
+          "stage": 2
+        },
+        {
+          "id": 29,
+          "stage": 2
+        },
+        {
+          "id": 39,
+          "stage": 0
+        },
+        {
+          "id": 49,
+          "stage": 3
+        },
+        {
+          "id": 9,
+          "stage": 3
+        },
+        {
+          "id": 20,
+          "stage": 4
+        },
+        {
+          "id": 30,
+          "stage": 4
+        },
+        {
+          "id": 40,
+          "stage": 5
+        }
+      ],
       "subSegment": 22,
       "executive": false,
       "salaryDescription": "Salario no disponible",
@@ -736,7 +978,53 @@
       },
       "requirementMin": "",
       "bold": false,
-      "applications": "0",
+      "applications": "11",
+      "applicants": [
+        {
+          "id": 50,
+          "stage": 0
+        },
+        {
+          "id": 40,
+          "stage": 1
+        },
+        {
+          "id": 30,
+          "stage": 0
+        },
+        {
+          "id": 20,
+          "stage": 2
+        },
+        {
+          "id": 10,
+          "stage": 2
+        },
+        {
+          "id": 48,
+          "stage": 0
+        },
+        {
+          "id": 38,
+          "stage": 3
+        },
+        {
+          "id": 28,
+          "stage": 3
+        },
+        {
+          "id": 18,
+          "stage": 4
+        },
+        {
+          "id": 5,
+          "stage": 4
+        },
+        {
+          "id": 23,
+          "stage": 5
+        }
+      ],
       "subSegment": 22,
       "executive": false,
       "salaryDescription": "Más de 30.000€",
@@ -806,7 +1094,61 @@
       },
       "requirementMin": "-Grado o diplomatura en enfermería. - Experiencia y master valorable",
       "bold": false,
-      "applications": "0",
+      "applications": "13",
+      "applicants": [
+        {
+          "id": 31,
+          "stage": 0
+        },
+        {
+          "id": 32,
+          "stage": 0
+        },
+        {
+          "id": 33,
+          "stage": 1
+        },
+        {
+          "id": 34,
+          "stage": 0
+        },
+        {
+          "id": 35,
+          "stage": 2
+        },
+        {
+          "id": 36,
+          "stage": 2
+        },
+        {
+          "id": 37,
+          "stage": 0
+        },
+        {
+          "id": 38,
+          "stage": 3
+        },
+        {
+          "id": 39,
+          "stage": 3
+        },
+        {
+          "id": 40,
+          "stage": 4
+        },
+        {
+          "id": 41,
+          "stage": 4
+        },
+        {
+          "id": 42,
+          "stage": 5
+        },
+        {
+          "id": 44,
+          "stage": 5
+        }
+      ],
       "subSegment": 22,
       "executive": false,
       "salaryDescription": "33.000€ - 36.000€ Bruto/año",
@@ -876,7 +1218,45 @@
       },
       "requirementMin": "Grado en finanzas o similar Inglés elevado Experiencia previa en compras Valorable portugues.",
       "bold": false,
-      "applications": "0",
+      "applications": "9",
+      "applicants": [
+        {
+          "id": 21,
+          "stage": 2
+        },
+        {
+          "id": 22,
+          "stage": 2
+        },
+        {
+          "id": 23,
+          "stage": 0
+        },
+        {
+          "id": 24,
+          "stage": 3
+        },
+        {
+          "id": 25,
+          "stage": 3
+        },
+        {
+          "id": 41,
+          "stage": 4
+        },
+        {
+          "id": 42,
+          "stage": 4
+        },
+        {
+          "id": 43,
+          "stage": 5
+        },
+        {
+          "id": 44,
+          "stage": 5
+        }
+      ],
       "subSegment": 22,
       "executive": false,
       "salaryDescription": "39.000€ - 41.000€ Bruto/año",
@@ -946,7 +1326,57 @@
       },
       "requirementMin": "Formación: Ingeniero Técnico, Licenciado, Ingeniero Superior, Idiomas: Inglés: C1 Conocimientos: , Máster en Prevención de Riesgos Laborales (3 especialidades) Experiencia en servicios de prevención propios y coordinación de servicio de prevención ajeno. Experiencia: 3 años",
       "bold": false,
-      "applications": "0",
+      "applications": "12",
+      "applicants": [
+        {
+          "id": 29,
+          "stage": 0
+        },
+        {
+          "id": 28,
+          "stage": 1
+        },
+        {
+          "id": 27,
+          "stage": 0
+        },
+        {
+          "id": 26,
+          "stage": 0
+        },
+        {
+          "id": 25,
+          "stage": 2
+        },
+        {
+          "id": 24,
+          "stage": 0
+        },
+        {
+          "id": 23,
+          "stage": 3
+        },
+        {
+          "id": 22,
+          "stage": 3
+        },
+        {
+          "id": 21,
+          "stage": 4
+        },
+        {
+          "id": 20,
+          "stage": 4
+        },
+        {
+          "id": 19,
+          "stage": 5
+        },
+        {
+          "id": 18,
+          "stage": 0
+        }
+      ],
       "subSegment": 22,
       "executive": false,
       "salaryDescription": "28.000€ - 33.000€ Bruto/año",
@@ -1016,7 +1446,49 @@
       },
       "requirementMin": "",
       "bold": false,
-      "applications": "0",
+      "applications": "10",
+      "applicants": [
+        {
+          "id": 29,
+          "stage": 0
+        },
+        {
+          "id": 28,
+          "stage": 1
+        },
+        {
+          "id": 27,
+          "stage": 0
+        },
+        {
+          "id": 26,
+          "stage": 0
+        },
+        {
+          "id": 25,
+          "stage": 2
+        },
+        {
+          "id": 24,
+          "stage": 0
+        },
+        {
+          "id": 23,
+          "stage": 3
+        },
+        {
+          "id": 22,
+          "stage": 3
+        },
+        {
+          "id": 21,
+          "stage": 4
+        },
+        {
+          "id": 18,
+          "stage": 0
+        }
+      ],
       "subSegment": 22,
       "executive": false,
       "salaryDescription": "24.000€ - 30.000€ Bruto/año",
@@ -1086,7 +1558,51 @@
       },
       "requirementMin": "Valorable conocimientos en business intelligence y SAP",
       "bold": false,
-      "applications": "0",
+      "applications": "10",
+      "applicants": [
+        {
+          "id": 29,
+          "stage": 0
+        },
+        {
+          "id": 28,
+          "stage": 1
+        },
+        {
+          "id": 27,
+          "stage": 0
+        },
+        {
+          "id": 26,
+          "stage": 0
+        },
+        {
+          "id": 25,
+          "stage": 2
+        },
+
+        {
+          "id": 23,
+          "stage": 3
+        },
+        {
+          "id": 22,
+          "stage": 3
+        },
+
+        {
+          "id": 20,
+          "stage": 4
+        },
+        {
+          "id": 19,
+          "stage": 5
+        },
+        {
+          "id": 18,
+          "stage": 0
+        }
+      ],
       "subSegment": 22,
       "executive": false,
       "salaryDescription": "33.000€ - 36.000€ Bruto/año",
@@ -1156,7 +1672,45 @@
       },
       "requirementMin": "-Formación en Ingeniería Industrial, especialidad en Electricidad, o Grado en Ingeniería Eléctrica. - Experiencia de mínimo 5 años realizando funciones similares. - Experto en gestión de proyectos e ingeniería eléctrica. - Conocimiento del REBT, movilidad eléctrica, redes y telecomunicaciones. - Nivel de inglés alto: C1. - Disponibilidad para viajar de manera ocasional. - Iniciativa y orientación a resultados. - Capacidad de liderazgo de equipo. - Habilidades comunicativas y de negociación. - Capacidades organizativas y orientación al detalle.",
       "bold": false,
-      "applications": "0",
+      "applications": "9",
+      "applicants": [
+        {
+          "id": 29,
+          "stage": 0
+        },
+        {
+          "id": 28,
+          "stage": 1
+        },
+        {
+          "id": 27,
+          "stage": 0
+        },
+        {
+          "id": 26,
+          "stage": 0
+        },
+        {
+          "id": 25,
+          "stage": 2
+        },
+        {
+          "id": 24,
+          "stage": 0
+        },
+        {
+          "id": 23,
+          "stage": 3
+        },
+        {
+          "id": 20,
+          "stage": 4
+        },
+        {
+          "id": 19,
+          "stage": 5
+        }
+      ],
       "subSegment": 31,
       "executive": true,
       "salaryDescription": "56.000€ - 60.000€ Bruto/año",
@@ -1226,7 +1780,57 @@
       },
       "requirementMin": "",
       "bold": false,
-      "applications": "0",
+      "applications": "12",
+      "applicants": [
+        {
+          "id": 29,
+          "stage": 0
+        },
+        {
+          "id": 28,
+          "stage": 1
+        },
+        {
+          "id": 27,
+          "stage": 0
+        },
+        {
+          "id": 26,
+          "stage": 0
+        },
+        {
+          "id": 25,
+          "stage": 2
+        },
+        {
+          "id": 24,
+          "stage": 0
+        },
+        {
+          "id": 23,
+          "stage": 3
+        },
+        {
+          "id": 22,
+          "stage": 3
+        },
+        {
+          "id": 21,
+          "stage": 4
+        },
+        {
+          "id": 20,
+          "stage": 4
+        },
+        {
+          "id": 19,
+          "stage": 5
+        },
+        {
+          "id": 18,
+          "stage": 0
+        }
+      ],
       "subSegment": 23,
       "executive": false,
       "salaryDescription": "25.000€ - 27.000€ Bruto/año",
@@ -1296,7 +1900,33 @@
       },
       "requirementMin": "",
       "bold": false,
-      "applications": "0",
+      "applications": "6",
+      "applicants": [
+        {
+          "id": 29,
+          "stage": 0
+        },
+        {
+          "id": 28,
+          "stage": 1
+        },
+        {
+          "id": 27,
+          "stage": 0
+        },
+        {
+          "id": 26,
+          "stage": 0
+        },
+        {
+          "id": 25,
+          "stage": 2
+        },
+        {
+          "id": 18,
+          "stage": 0
+        }
+      ],
       "subSegment": 23,
       "executive": false,
       "salaryDescription": "Salario no disponible",
@@ -1366,7 +1996,53 @@
       },
       "requirementMin": "Titulación Grado en Ingeniería Industrial (Mecánica/Estructuras). Manejo de herramientas de diseño CAD 3D y Revit. Nivel alto de Ingles. Valorable Alemán. Valorable manejo de programas de cálculo de estructuras. Manejo de paquete Office.",
       "bold": false,
-      "applications": "0",
+      "applications": "11",
+      "applicants": [
+        {
+          "id": 29,
+          "stage": 0
+        },
+        {
+          "id": 28,
+          "stage": 1
+        },
+        {
+          "id": 27,
+          "stage": 0
+        },
+        {
+          "id": 26,
+          "stage": 0
+        },
+        {
+          "id": 25,
+          "stage": 2
+        },
+        {
+          "id": 24,
+          "stage": 0
+        },
+        {
+          "id": 23,
+          "stage": 3
+        },
+        {
+          "id": 22,
+          "stage": 3
+        },
+        {
+          "id": 21,
+          "stage": 4
+        },
+        {
+          "id": 19,
+          "stage": 5
+        },
+        {
+          "id": 18,
+          "stage": 0
+        }
+      ],
       "subSegment": 22,
       "executive": false,
       "salaryDescription": "22.000€ - 22.000€ Bruto/año",
@@ -1436,7 +2112,57 @@
       },
       "requirementMin": "Experiencia mínima de 3 años como técnico de mantenimiento . Experiencia en eléctrica- electrónica y mecánica. Automatización industrial de finales de linea (envasado y paletizado de automatismos).  Experiencia en diagnosticar averías  Nivel de inglés alto  Persona con iniciativa y que sepa tomar decisiones",
       "bold": false,
-      "applications": "0",
+      "applications": "12",
+      "applicants": [
+        {
+          "id": 29,
+          "stage": 0
+        },
+        {
+          "id": 28,
+          "stage": 1
+        },
+        {
+          "id": 27,
+          "stage": 0
+        },
+        {
+          "id": 26,
+          "stage": 0
+        },
+        {
+          "id": 25,
+          "stage": 2
+        },
+        {
+          "id": 24,
+          "stage": 0
+        },
+        {
+          "id": 23,
+          "stage": 3
+        },
+        {
+          "id": 22,
+          "stage": 3
+        },
+        {
+          "id": 21,
+          "stage": 4
+        },
+        {
+          "id": 20,
+          "stage": 4
+        },
+        {
+          "id": 19,
+          "stage": 5
+        },
+        {
+          "id": 18,
+          "stage": 0
+        }
+      ],
       "subSegment": 22,
       "executive": false,
       "salaryDescription": "30.000€ - 33.000€ Bruto/año",
