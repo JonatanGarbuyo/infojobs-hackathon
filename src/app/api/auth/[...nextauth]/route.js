@@ -1,49 +1,93 @@
 import NextAuth from 'next-auth'
 
+const INFOJOBS_CLIENT_ID = process.env.INFOJOBS_CLIENT_ID
+const INFOJOBS_CLIENT_SECRET = process.env.INFOJOBS_CLIENT_SECRET
+const INFOJOBS_REDIRECT_URI = process.env.INFOJOBS_REDIRECT_URI
+const AUTHORIZATION_URL =
+  'https://www.infojobs.net/api/oauth/user-authorize/index.xhtml'
+const SCOPE =
+  'MY_APPLICATIONS,CANDIDATE_PROFILE_WITH_EMAIL,CANDIDATE_READ_CURRICULUM_SKILLS,CV'
+const TOKEN_URL = 'https://www.infojobs.net/oauth/authorize'
+const USER_INFO_URL = 'https://api.infojobs.net/api/6/candidate'
+
 const handler = NextAuth({
   providers: [
     {
       id: 'infojobs',
       name: 'Infojobs',
       type: 'oauth',
-      clientId: process.env.INFOJOBS_CLIENT_ID,
-      clientSecret: process.env.INFOJOBS_CLIENT_SECRET,
-
-      /** does not implements OpenId */
-      // wellKnown: "https://accounts.google.com/.well-known/openid-configuration",
-      // userinfo: "https://",
-      // authorizationUrl: "https://auth.freshbooks.com/service/auth/oauth/authorize?response_type=code",
+      version: '2.0',
+      checks: ['none'],
+      clientId: INFOJOBS_CLIENT_ID,
+      clientSecret: INFOJOBS_CLIENT_SECRET,
       authorization: {
-        url: 'https://www.infojobs.net/api/oauth/user-authorize/index.xhtml',
+        url: AUTHORIZATION_URL,
         params: {
-          scope:
-            'MY_APPLICATIONS,CANDIDATE_PROFILE_WITH_EMAIL,CANDIDATE_READ_CURRICULUM_SKILLS,CV',
-          client_id: process.env.INFOJOBS_CLIENT_ID,
-          redirect_uri: process.env.INFOJOBS_REDIRECT_URI,
+          scope: SCOPE,
+          redirect_uri: INFOJOBS_REDIRECT_URI,
           response_type: 'code'
           // state: 'OPTIONAL_CLIENT_LOCAL_STATE'
         }
       },
-      token: 'https://www.infojobs.net/oauth/authorize',
-      // token: {
-      //   url: 'https://www.infojobs.net/oauth/authorize',
-      //   params: {
-      //     grant_type: 'authorization_code',
-      //     client_id: process.env.INFOJOBS_CLIENT_ID,
-      //     client_secret: process.env.INFOJOBS_CLIENT_SECRET,
-      //     code: 'VERIFICATION_CODE_AQUIRED_IN_STEP_1',
-      //     redirect_uri: process.env.INFOJOBS_REDIRECT_URI
-      //   }
-      // },
-      // profileUrl: "https://api.freshbooks.com/auth/api/v1/users/me",
+      token: {
+        url: TOKEN_URL,
+        async request({ params }) {
+          const tokenUrl = new URL(TOKEN_URL ?? '')
+          tokenUrl.searchParams.append('grant_type', 'authorization_code')
+          tokenUrl.searchParams.append('code', params.code ?? '')
+          tokenUrl.searchParams.append(
+            'redirect_uri',
+            `${INFOJOBS_REDIRECT_URI}` ?? ''
+          )
+          tokenUrl.searchParams.append('client_id', INFOJOBS_CLIENT_ID ?? '')
+          tokenUrl.searchParams.append(
+            'client_secret',
+            INFOJOBS_CLIENT_SECRET ?? ''
+          )
+          const response = await fetch(tokenUrl.toString(), {
+            method: 'POST'
+          })
+          const tokens = await response.json()
+          return {
+            tokens
+          }
+        },
+        userinfo: {
+          async request({ tokens }) {
+            const basicToken = `Basic ${Buffer.from(
+              `${INFOJOBS_CLIENT_ID}:${INFOJOBS_CLIENT_SECRET}`
+            ).toString('base64')}`
+            const bearerToken = `Bearer ${tokens.access_token}`
+            const response = await fetch(USER_INFO_URL, {
+              headers: {
+                Authorization: `${basicToken},${bearerToken}`
+              }
+            })
+            const profile = await response.json()
+            return {
+              id: profile.id,
+              email: profile.email,
+              image: profile.photo,
+              name: profile.name,
+              sub: profile.id
+            }
+          }
+        },
+        profile(profile) {
+          return {
+            id: profile.id.toString(),
+            name: profile.name,
+            email: profile.email,
+            image: profile.photo
+          }
+        }
+      },
 
       profile(profile) {
         console.log('--PROFILE: ', profile)
         return {
-          id: profile.id
-          // name: profile.kakao_account?.profile.nickname,
-          // email: profile.kakao_account?.email,
-          // image: profile.kakao_account?.profile.profile_image_url
+          id: profile.id,
+          profile: profile
         }
       }
     }
@@ -65,10 +109,16 @@ const handler = NextAuth({
     },
     async session({ session, token, user }) {
       console.log('CB-session: ', { session, token, user })
+      session.accessToken = token.accessToken
+      session.refreshToken = token.refreshToken
       return session
     },
     async jwt({ token, user, account, profile, isNewUser }) {
       console.log('CB-jwt: ', { token, user, account, profile, isNewUser })
+      if (account) {
+        token.accessToken = account.access_token
+        token.refreshToken = account.refresh_token
+      }
       return token
     }
   }
