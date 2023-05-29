@@ -1,0 +1,22 @@
+.header {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-inline: auto;
+  max-width: min(100%, 1440px);
+  min-height: 80px;
+  padding-inline: 24px;
+}
+
+.user__container {
+  align-items: center;
+  border-radius: 100%;
+  border: 1px solid transparent;
+  display: flex;
+  height: 42px;
+  justify-content: center;
+  width: 42px;
+}
+.user__container:hover {
+  border-color: var(--color-secondary);
+}

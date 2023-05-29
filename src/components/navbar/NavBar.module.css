@@ -1,0 +1,17 @@
+.nav_container {
+  background-color: var(--color-black);
+  color: var(--color-light-gray);
+  min-width: 100px;
+  padding-block: 24px;
+  padding-inline: 12px;
+}
+
+@media (max-width: 768px) {
+  .nav_container {
+    display: block;
+    min-width: unset;
+    overflow: hidden;
+    padding: unset;
+    width: 0;
+  }
+}
