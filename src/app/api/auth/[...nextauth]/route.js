@@ -5,7 +5,6 @@ const AUTHORIZATION_URL =
 const SCOPE =
   'MY_APPLICATIONS,CANDIDATE_PROFILE_WITH_EMAIL,CANDIDATE_READ_CURRICULUM_SKILLS,CV'
 const TOKEN_URL = 'https://www.infojobs.net/oauth/authorize'
-const USER_INFO_URL = 'https://api.infojobs.net/api/6/candidate'
 
 const handler = NextAuth({
   providers: [
@@ -52,27 +51,30 @@ const handler = NextAuth({
             tokens
           }
         },
-        userinfo: {
-          async request({ tokens }) {
-            const basicToken = `Basic ${Buffer.from(
-              `${process.env.INFOJOBS_CLIENT_ID}:${process.env.INFOJOBS_CLIENT_SECRET}`
-            ).toString('base64')}`
-            const bearerToken = `Bearer ${tokens.access_token}`
-            const response = await fetch(USER_INFO_URL, {
-              headers: {
-                Authorization: `${basicToken},${bearerToken}`
-              }
-            })
-            const profile = await response.json()
-            return {
-              id: profile.id,
-              email: profile.email,
-              image: profile.photo,
-              name: profile.name,
-              sub: profile.id
-            }
-          }
-        },
+        // userinfo: {
+        //   async request({ tokens }) {
+        //     const basicToken = `Basic ${Buffer.from(
+        //       `${process.env.INFOJOBS_CLIENT_ID}:${process.env.INFOJOBS_CLIENT_SECRET}`
+        //     ).toString('base64')}`
+        //     const bearerToken = `Bearer ${tokens.access_token}`
+        //     const response = await fetch(
+        //       'https://api.infojobs.net/api/6/candidate',
+        //       {
+        //         headers: {
+        //           Authorization: `${basicToken},${bearerToken}`
+        //         }
+        //       }
+        //     )
+        //     const profile = await response.json()
+        //     return {
+        //       id: profile.id,
+        //       email: profile.email,
+        //       image: profile.photo,
+        //       name: profile.name,
+        //       sub: profile.id
+        //     }
+        //   }
+        // },
         profile(profile) {
           return {
             id: profile.id.toString(),
