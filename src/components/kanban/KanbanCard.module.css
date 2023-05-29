@@ -1,0 +1,46 @@
+.card {
+  background-color: white;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px,
+    rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+  display: flex;
+  flex-direction: column;
+  font-size: small;
+  gap: 2px;
+  margin-top: 16px;
+  opacity: 0.9;
+  padding: 12px;
+}
+
+.card:hover {
+  background-color: var(--color-very-light-blue);
+}
+
+.card_title {
+  cursor: pointer;
+  font-size: medium;
+  padding-block: 2px;
+  padding-left: 4px;
+}
+
+.card_email {
+  opacity: 0.8;
+  overflow-x: hidden;
+  padding-left: 4px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.card_phone {
+  align-items: center;
+  display: flex;
+  margin-top: 8px;
+  opacity: 0.8;
+}
+
+.dragging {
+  position: relative;
+  rotate: 4deg;
+  z-index: 99;
+}

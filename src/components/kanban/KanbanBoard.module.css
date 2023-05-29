@@ -1,0 +1,10 @@
+.board {
+  flex-grow: 1;
+  overflow-x: auto;
+  padding-top: 12px;
+}
+
+.lanes__container {
+  display: flex;
+  gap: 12px;
+}

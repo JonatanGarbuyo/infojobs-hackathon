@@ -1,0 +1,16 @@
+.lane {
+  margin: 2px;
+  min-width: 150px;
+  width: 100%;
+}
+
+.lane_title {
+  border-bottom: 2px solid var(--color-primary-100);
+  font-size: large;
+  font-weight: normal;
+  overflow-x: hidden;
+  padding-block-end: 12px;
+  text-overflow: ellipsis;
+  text-transform: capitalize;
+  white-space: nowrap;
+}

@@ -1,0 +1,39 @@
+.title {
+  font-weight: normal;
+}
+
+.back {
+  align-items: center;
+  background: none;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  gap: 12px;
+  margin-block-end: 12px;
+}
+
+.back:hover {
+  border-color: var(--color-secondary);
+  color: var(--color-secondary);
+}
+
+.description {
+  display: flex;
+  font-size: 14px;
+  gap: 12px;
+  list-style-type: none;
+  margin-block-end: 12px;
+  margin-block-start: 6px;
+  opacity: 0.8;
+  text-decoration: none;
+}
+
+.description li {
+  align-items: center;
+  border-radius: 30px;
+  border: 1px solid grey;
+  display: flex;
+  gap: 4px;
+  padding-block: 2px;
+  padding-inline: 12px;
+}
