@@ -1,0 +1,1448 @@
+{
+  "currentPage": 1,
+  "pageSize": 20,
+  "totalResults": 44,
+  "currentResults": 20,
+  "totalPages": 3,
+  "availableSortingMethods": ["updated-desc"],
+  "sortBy": "updated-desc",
+  "sinceDate": "ANY",
+  "dataLayer": {
+    "offer_search_page": "1",
+    "offer_search_page_limit": "20",
+    "region_level2_id": "0"
+  },
+  "queryParameters": {
+    "study": [],
+    "province": ["seleccionar"],
+    "salaryPeriod": "seleccionar",
+    "city": [],
+    "contractType": [],
+    "query": "",
+    "experienceMin": [],
+    "category": ["-"],
+    "workDay": [],
+    "teleworking": []
+  },
+  "eligibleForAutomaticAlertCreation": false,
+  "offers": [
+    {
+      "id": "0270160c0b4440a64a04fe05a6a15f",
+      "title": "Store Manager (premium-lujo)",
+      "province": {
+        "id": 9,
+        "value": "Barcelona"
+      },
+      "city": "Barcelona",
+      "link": "https://www.infojobs.net/barcelona/store-manager-premium-lujo/of-i0270160c0b4440a64a04fe05a6a15f",
+      "category": {
+        "id": 200,
+        "value": "Ventas al detalle"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3121,
+        "value": "Venta al detalle"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 3,
+        "value": "Al menos 3 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 10,
+        "value": "Sin estudios"
+      },
+      "teleworking": {
+        "id": 1,
+        "value": "Presencial"
+      },
+      "published": "2023-05-17T14:11:41.000Z",
+      "updated": "2023-05-17T14:11:41.000Z",
+      "author": {
+        "id": "a3035308174cdfb884ded9fe637677",
+        "privateId": 35446748762,
+        "name": "Randstad Professionals",
+        "uri": "https://randstad-professionals.ofertas-trabajo.infojobs.net",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/45/454c97fd-3af3-4fb1-b11d-3b00f86fe5f8?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1OTU0MTQ2MjksInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy80NS80NTRjOTdmZC0zYWYzLTRmYjEtYjExZC0zYjAwZjg2ZmU1ZjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.jzFbWnU8VJyWMFB-G4MayJizeEI-yDLszGzZQT0oQbKJlicXj0bqdmq3pxlQjTn1m3z6HkfGEX5NapKAhwRGqVkC0T0WXpQQHEyRTfo1rxzW1GSx9QmJK7LtYdmWuhBMVbepx3CED_DviUbmwgeIDkToCeKHOUCDQhwl3-EC4E0qPqLBFPkFt8VGm_Qovo7R8kOSwa2Qaezfc_xzi6vkaM9pi6zlf7DG_ZY3XBZD2whNVQaDwE_mIsgl2sfRi2V8WwPrKIWAPilPon5w1n6BnyvX9iXns-Mh1QDjlNlNKgiu51FUFTavNBeVynCw7CZmQDJzQp_-sqP1N6PRbH8xgQ&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "-3-5 años de experiencia previa como Store manager en empresas de retail. - Análisis de kpi's y gestión de equipos - Inglés alto - Catalán alto - Español alto",
+      "bold": false,
+      "applications": "4",
+      "applicants": [
+        {
+          "id": 1,
+          "stage": 0
+        },
+        {
+          "id": 11,
+          "stage": 0
+        },
+        {
+          "id": 21,
+          "stage": 0
+        },
+        {
+          "id": 31,
+          "stage": 0
+        }
+      ],
+      "subSegment": 23,
+      "executive": false,
+      "salaryDescription": "Salario no disponible",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "b9d92e1b194e799ebf878ddc84c30d",
+      "title": "Administrativo/a de Compras",
+      "province": {
+        "id": 9,
+        "value": "Barcelona"
+      },
+      "city": "Barcelona",
+      "link": "https://www.infojobs.net/barcelona/administrativo-compras/of-ib9d92e1b194e799ebf878ddc84c30d",
+      "category": {
+        "id": 40,
+        "value": "Compras, logística y almacén"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3024,
+        "value": "Compras y aprovisionamiento"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 6,
+        "value": "Al menos 2 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 60,
+        "value": "Ciclo Formativo Grado Superior"
+      },
+      "teleworking": {
+        "id": 1,
+        "value": "Presencial"
+      },
+      "published": "2023-05-17T13:58:16.000Z",
+      "updated": "2023-05-17T13:58:16.000Z",
+      "author": {
+        "id": "a3035308174cdfb884ded9fe637677",
+        "privateId": 35446748762,
+        "name": "Randstad Professionals",
+        "uri": "https://randstad-professionals.ofertas-trabajo.infojobs.net",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/45/454c97fd-3af3-4fb1-b11d-3b00f86fe5f8?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1OTU0MTQ2MjksInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy80NS80NTRjOTdmZC0zYWYzLTRmYjEtYjExZC0zYjAwZjg2ZmU1ZjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.jzFbWnU8VJyWMFB-G4MayJizeEI-yDLszGzZQT0oQbKJlicXj0bqdmq3pxlQjTn1m3z6HkfGEX5NapKAhwRGqVkC0T0WXpQQHEyRTfo1rxzW1GSx9QmJK7LtYdmWuhBMVbepx3CED_DviUbmwgeIDkToCeKHOUCDQhwl3-EC4E0qPqLBFPkFt8VGm_Qovo7R8kOSwa2Qaezfc_xzi6vkaM9pi6zlf7DG_ZY3XBZD2whNVQaDwE_mIsgl2sfRi2V8WwPrKIWAPilPon5w1n6BnyvX9iXns-Mh1QDjlNlNKgiu51FUFTavNBeVynCw7CZmQDJzQp_-sqP1N6PRbH8xgQ&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "-Nivel elevado de Office (Word, Excel, Power Point, etc). - Inglés B1 para tener contacto con proveedores internacionales - Pensamos en una persona con capacidad de análisis y planificación, dinámico, con habilidades negociadores, orientación a negocio y resultados. - Experiencia mínima de 2 años en puestos similares",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "executive": false,
+      "salaryDescription": "Salario no disponible",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "fc592c0ec14c0bac772ed277a3ed71",
+      "title": "Customer Service",
+      "province": {
+        "id": 9,
+        "value": "Barcelona"
+      },
+      "city": "Sant Pere de Riudebitlles",
+      "link": "https://www.infojobs.net/sant-pere-de-riudebitlles/customer-service/of-ifc592c0ec14c0bac772ed277a3ed71",
+      "category": {
+        "id": 170,
+        "value": "Atención a clientes"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3118,
+        "value": "Atención al cliente"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 2,
+        "value": "Al menos 1 año"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 60,
+        "value": "Ciclo Formativo Grado Superior"
+      },
+      "teleworking": {
+        "id": 3,
+        "value": "Híbrido"
+      },
+      "published": "2023-05-17T08:04:43.000Z",
+      "updated": "2023-05-17T08:04:43.000Z",
+      "author": {
+        "id": "a3035308174cdfb884ded9fe637677",
+        "privateId": 35446748762,
+        "name": "Randstad Professionals",
+        "uri": "https://randstad-professionals.ofertas-trabajo.infojobs.net",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/45/454c97fd-3af3-4fb1-b11d-3b00f86fe5f8?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1OTU0MTQ2MjksInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy80NS80NTRjOTdmZC0zYWYzLTRmYjEtYjExZC0zYjAwZjg2ZmU1ZjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.jzFbWnU8VJyWMFB-G4MayJizeEI-yDLszGzZQT0oQbKJlicXj0bqdmq3pxlQjTn1m3z6HkfGEX5NapKAhwRGqVkC0T0WXpQQHEyRTfo1rxzW1GSx9QmJK7LtYdmWuhBMVbepx3CED_DviUbmwgeIDkToCeKHOUCDQhwl3-EC4E0qPqLBFPkFt8VGm_Qovo7R8kOSwa2Qaezfc_xzi6vkaM9pi6zlf7DG_ZY3XBZD2whNVQaDwE_mIsgl2sfRi2V8WwPrKIWAPilPon5w1n6BnyvX9iXns-Mh1QDjlNlNKgiu51FUFTavNBeVynCw7CZmQDJzQp_-sqP1N6PRbH8xgQ&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "executive": false,
+      "salaryDescription": "Salario no disponible",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "646138d5aa4a8ea644a014a151cc5d",
+      "title": "Ingeniero Eléctrico (Automoción)",
+      "province": {
+        "id": 2,
+        "value": "Álava/Araba"
+      },
+      "city": "Vitoria-Gasteiz",
+      "link": "https://www.infojobs.net/vitoria-gasteiz/ingeniero-electrico-automocion/of-i646138d5aa4a8ea644a014a151cc5d",
+      "category": {
+        "id": 80,
+        "value": "Ingenieros y técnicos"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3046,
+        "value": "Electrónica"
+      },
+      "salaryMin": {
+        "id": 990,
+        "value": "45.000 €"
+      },
+      "salaryMax": {
+        "id": 440,
+        "value": "50.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 4,
+        "value": "Al menos 4 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 120,
+        "value": "Ingeniería Técnica"
+      },
+      "teleworking": {
+        "id": 1,
+        "value": "Presencial"
+      },
+      "published": "2023-05-16T16:02:51.000Z",
+      "updated": "2023-05-16T16:02:51.000Z",
+      "author": {
+        "id": "a3035308174cdfb884ded9fe637677",
+        "privateId": 35446748762,
+        "name": "Randstad Professionals",
+        "uri": "https://randstad-professionals.ofertas-trabajo.infojobs.net",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/45/454c97fd-3af3-4fb1-b11d-3b00f86fe5f8?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1OTU0MTQ2MjksInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy80NS80NTRjOTdmZC0zYWYzLTRmYjEtYjExZC0zYjAwZjg2ZmU1ZjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.jzFbWnU8VJyWMFB-G4MayJizeEI-yDLszGzZQT0oQbKJlicXj0bqdmq3pxlQjTn1m3z6HkfGEX5NapKAhwRGqVkC0T0WXpQQHEyRTfo1rxzW1GSx9QmJK7LtYdmWuhBMVbepx3CED_DviUbmwgeIDkToCeKHOUCDQhwl3-EC4E0qPqLBFPkFt8VGm_Qovo7R8kOSwa2Qaezfc_xzi6vkaM9pi6zlf7DG_ZY3XBZD2whNVQaDwE_mIsgl2sfRi2V8WwPrKIWAPilPon5w1n6BnyvX9iXns-Mh1QDjlNlNKgiu51FUFTavNBeVynCw7CZmQDJzQp_-sqP1N6PRbH8xgQ&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "-Ingeniería eléctrica o similar  - Imprescindible 4 años de experiencia como Ingeniero/a Eléctrico en el el área de calidad del sector automoción   - Valorable conocimiento en Baterías  - Valorable conocimiento en Software   - Nivel de inglés B2  - Nivel de alemán B2",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 32,
+      "executive": false,
+      "salaryDescription": "45.000€ - 50.000€ Bruto/año",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "5c78df6219401284eaec31df105367",
+      "title": "Ingeniero /a calidad (automoción)",
+      "province": {
+        "id": 51,
+        "value": "Vizcaya/Bizkaia"
+      },
+      "city": "Amorebieta-Etxano",
+      "link": "https://www.infojobs.net/amorebieta-etxano/ingeniero-calidad-automocion/of-i5c78df6219401284eaec31df105367",
+      "category": {
+        "id": 80,
+        "value": "Ingenieros y técnicos"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3049,
+        "value": "Industrial"
+      },
+      "salaryMin": {
+        "id": 285,
+        "value": "33.000 €"
+      },
+      "salaryMax": {
+        "id": 285,
+        "value": "33.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 3,
+        "value": "Al menos 3 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 60,
+        "value": "Ciclo Formativo Grado Superior"
+      },
+      "teleworking": {
+        "id": 1,
+        "value": "Presencial"
+      },
+      "published": "2023-05-16T15:52:32.000Z",
+      "updated": "2023-05-16T15:52:32.000Z",
+      "author": {
+        "id": "a3035308174cdfb884ded9fe637677",
+        "privateId": 35446748762,
+        "name": "Randstad Professionals",
+        "uri": "https://randstad-professionals.ofertas-trabajo.infojobs.net",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/45/454c97fd-3af3-4fb1-b11d-3b00f86fe5f8?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1OTU0MTQ2MjksInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy80NS80NTRjOTdmZC0zYWYzLTRmYjEtYjExZC0zYjAwZjg2ZmU1ZjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.jzFbWnU8VJyWMFB-G4MayJizeEI-yDLszGzZQT0oQbKJlicXj0bqdmq3pxlQjTn1m3z6HkfGEX5NapKAhwRGqVkC0T0WXpQQHEyRTfo1rxzW1GSx9QmJK7LtYdmWuhBMVbepx3CED_DviUbmwgeIDkToCeKHOUCDQhwl3-EC4E0qPqLBFPkFt8VGm_Qovo7R8kOSwa2Qaezfc_xzi6vkaM9pi6zlf7DG_ZY3XBZD2whNVQaDwE_mIsgl2sfRi2V8WwPrKIWAPilPon5w1n6BnyvX9iXns-Mh1QDjlNlNKgiu51FUFTavNBeVynCw7CZmQDJzQp_-sqP1N6PRbH8xgQ&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "Ingeniería y/o formación profesional  Inglés B2. Muy valorable alemán  Imprescindible 3 años de experiencia en el el área de calidad del sector automoción.",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "executive": false,
+      "salaryDescription": "33.000€ - 33.000€ Bruto/año",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "b472990c5644e9af43508f127f53e3",
+      "title": "Store Manager moda masculina (Viladecans)",
+      "province": {
+        "id": 9,
+        "value": "Barcelona"
+      },
+      "city": "Viladecans",
+      "link": "https://www.infojobs.net/viladecans/store-manager-moda-masculina-viladecans/of-ib472990c5644e9af43508f127f53e3",
+      "category": {
+        "id": 200,
+        "value": "Ventas al detalle"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3121,
+        "value": "Venta al detalle"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 6,
+        "value": "Al menos 2 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 20,
+        "value": "Educación Secundaria Obligatoria"
+      },
+      "teleworking": {
+        "id": 1,
+        "value": "Presencial"
+      },
+      "published": "2023-05-16T14:46:18.000Z",
+      "updated": "2023-05-16T14:46:18.000Z",
+      "author": {
+        "id": "a3035308174cdfb884ded9fe637677",
+        "privateId": 35446748762,
+        "name": "Randstad Professionals",
+        "uri": "https://randstad-professionals.ofertas-trabajo.infojobs.net",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/45/454c97fd-3af3-4fb1-b11d-3b00f86fe5f8?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1OTU0MTQ2MjksInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy80NS80NTRjOTdmZC0zYWYzLTRmYjEtYjExZC0zYjAwZjg2ZmU1ZjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.jzFbWnU8VJyWMFB-G4MayJizeEI-yDLszGzZQT0oQbKJlicXj0bqdmq3pxlQjTn1m3z6HkfGEX5NapKAhwRGqVkC0T0WXpQQHEyRTfo1rxzW1GSx9QmJK7LtYdmWuhBMVbepx3CED_DviUbmwgeIDkToCeKHOUCDQhwl3-EC4E0qPqLBFPkFt8VGm_Qovo7R8kOSwa2Qaezfc_xzi6vkaM9pi6zlf7DG_ZY3XBZD2whNVQaDwE_mIsgl2sfRi2V8WwPrKIWAPilPon5w1n6BnyvX9iXns-Mh1QDjlNlNKgiu51FUFTavNBeVynCw7CZmQDJzQp_-sqP1N6PRbH8xgQ&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "-Experiencia mínima de 2 años en un puesto de responsable de tienda (gestión de mas de 4 personas y alto nivel de facturación)   - Experiencia dentro del sector de la moda (se valorará moda textil y complementos, cosmética).   Formación: Ciclo Formativo Grado Superior, otros",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "executive": false,
+      "salaryDescription": "Salario no disponible",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "624496d2db4917af7099719e5d6d3e",
+      "title": "Project Engineer (Interim)",
+      "province": {
+        "id": 53,
+        "value": "Zaragoza"
+      },
+      "city": "Zaragoza",
+      "link": "https://www.infojobs.net/zaragoza/project-engineer-interim/of-i624496d2db4917af7099719e5d6d3e",
+      "category": {
+        "id": 80,
+        "value": "Ingenieros y técnicos"
+      },
+      "contractType": {
+        "id": 8,
+        "value": "De duración determinada"
+      },
+      "subcategory": {
+        "id": 3049,
+        "value": "Industrial"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 6,
+        "value": "Al menos 2 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 120,
+        "value": "Ingeniería Técnica"
+      },
+      "teleworking": {
+        "id": 1,
+        "value": "Presencial"
+      },
+      "published": "2023-05-16T10:58:34.000Z",
+      "updated": "2023-05-16T10:58:34.000Z",
+      "author": {
+        "id": "a3035308174cdfb884ded9fe637677",
+        "privateId": 35446748762,
+        "name": "Randstad Professionals",
+        "uri": "https://randstad-professionals.ofertas-trabajo.infojobs.net",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/45/454c97fd-3af3-4fb1-b11d-3b00f86fe5f8?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1OTU0MTQ2MjksInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy80NS80NTRjOTdmZC0zYWYzLTRmYjEtYjExZC0zYjAwZjg2ZmU1ZjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.jzFbWnU8VJyWMFB-G4MayJizeEI-yDLszGzZQT0oQbKJlicXj0bqdmq3pxlQjTn1m3z6HkfGEX5NapKAhwRGqVkC0T0WXpQQHEyRTfo1rxzW1GSx9QmJK7LtYdmWuhBMVbepx3CED_DviUbmwgeIDkToCeKHOUCDQhwl3-EC4E0qPqLBFPkFt8VGm_Qovo7R8kOSwa2Qaezfc_xzi6vkaM9pi6zlf7DG_ZY3XBZD2whNVQaDwE_mIsgl2sfRi2V8WwPrKIWAPilPon5w1n6BnyvX9iXns-Mh1QDjlNlNKgiu51FUFTavNBeVynCw7CZmQDJzQp_-sqP1N6PRbH8xgQ&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "-Inglés mínimo C1 -Experiencia como Ingeniero de proyectos en entorno industrial -Disponibilidad para contrato temporal",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "executive": false,
+      "salaryDescription": "Salario no disponible",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "ce9929ca944625b8fdee176cc3590c",
+      "title": "Customer Service TEMPORAL",
+      "province": {
+        "id": 9,
+        "value": "Barcelona"
+      },
+      "city": "Barcelona",
+      "link": "https://www.infojobs.net/barcelona/customer-service-temporal/of-ice9929ca944625b8fdee176cc3590c",
+      "category": {
+        "id": 170,
+        "value": "Atención a clientes"
+      },
+      "contractType": {
+        "id": 8,
+        "value": "De duración determinada"
+      },
+      "subcategory": {
+        "id": 3118,
+        "value": "Atención al cliente"
+      },
+      "salaryMin": {
+        "id": 270,
+        "value": "24.000 €"
+      },
+      "salaryMax": {
+        "id": 1340,
+        "value": "26.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 2,
+        "value": "Al menos 1 año"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 125,
+        "value": "Grado"
+      },
+      "teleworking": {
+        "id": 1,
+        "value": "Presencial"
+      },
+      "published": "2023-05-16T09:37:43.000Z",
+      "updated": "2023-05-16T09:37:43.000Z",
+      "author": {
+        "id": "a3035308174cdfb884ded9fe637677",
+        "privateId": 35446748762,
+        "name": "Randstad Professionals",
+        "uri": "https://randstad-professionals.ofertas-trabajo.infojobs.net",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/45/454c97fd-3af3-4fb1-b11d-3b00f86fe5f8?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1OTU0MTQ2MjksInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy80NS80NTRjOTdmZC0zYWYzLTRmYjEtYjExZC0zYjAwZjg2ZmU1ZjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.jzFbWnU8VJyWMFB-G4MayJizeEI-yDLszGzZQT0oQbKJlicXj0bqdmq3pxlQjTn1m3z6HkfGEX5NapKAhwRGqVkC0T0WXpQQHEyRTfo1rxzW1GSx9QmJK7LtYdmWuhBMVbepx3CED_DviUbmwgeIDkToCeKHOUCDQhwl3-EC4E0qPqLBFPkFt8VGm_Qovo7R8kOSwa2Qaezfc_xzi6vkaM9pi6zlf7DG_ZY3XBZD2whNVQaDwE_mIsgl2sfRi2V8WwPrKIWAPilPon5w1n6BnyvX9iXns-Mh1QDjlNlNKgiu51FUFTavNBeVynCw7CZmQDJzQp_-sqP1N6PRbH8xgQ&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "-Buen manejo de excel  -SAP y EDI  -Capacidad Analítica.  -Disponibilidad para realizar un contrato TEMPORAL  -Persona extrovertida, cooperativa, con autonomía e iniciativa y con capacidad para trabajar en equipo.  -Capacidad de análisis, metódico y habilidades organizativas para gestionar el día a día.  -Habilidades informáticas, especialmente con nivel medio de Excel.",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "executive": false,
+      "salaryDescription": "24.000€ - 26.000€ Bruto/año",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "56f6afbe8d40838e8e7ea08dadb241",
+      "title": "Ingeniero/a mejora continua",
+      "province": {
+        "id": 31,
+        "value": "Lleida"
+      },
+      "city": "Guixers",
+      "link": "https://www.infojobs.net/guixers/ingeniero-mejora-continua/of-i56f6afbe8d40838e8e7ea08dadb241",
+      "category": {
+        "id": 80,
+        "value": "Ingenieros y técnicos"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3049,
+        "value": "Industrial"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 6,
+        "value": "Al menos 2 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 125,
+        "value": "Grado"
+      },
+      "teleworking": {
+        "id": 1,
+        "value": "Presencial"
+      },
+      "published": "2023-05-11T16:23:33.000Z",
+      "updated": "2023-05-11T16:23:33.000Z",
+      "author": {
+        "id": "a3035308174cdfb884ded9fe637677",
+        "privateId": 35446748762,
+        "name": "Randstad Professionals",
+        "uri": "https://randstad-professionals.ofertas-trabajo.infojobs.net",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/45/454c97fd-3af3-4fb1-b11d-3b00f86fe5f8?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1OTU0MTQ2MjksInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy80NS80NTRjOTdmZC0zYWYzLTRmYjEtYjExZC0zYjAwZjg2ZmU1ZjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.jzFbWnU8VJyWMFB-G4MayJizeEI-yDLszGzZQT0oQbKJlicXj0bqdmq3pxlQjTn1m3z6HkfGEX5NapKAhwRGqVkC0T0WXpQQHEyRTfo1rxzW1GSx9QmJK7LtYdmWuhBMVbepx3CED_DviUbmwgeIDkToCeKHOUCDQhwl3-EC4E0qPqLBFPkFt8VGm_Qovo7R8kOSwa2Qaezfc_xzi6vkaM9pi6zlf7DG_ZY3XBZD2whNVQaDwE_mIsgl2sfRi2V8WwPrKIWAPilPon5w1n6BnyvX9iXns-Mh1QDjlNlNKgiu51FUFTavNBeVynCw7CZmQDJzQp_-sqP1N6PRbH8xgQ&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "executive": false,
+      "salaryDescription": "Salario no disponible",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "e071d000a54211bb9487793abcfc5b",
+      "title": "Jefe de Obra Instalaciones",
+      "province": {
+        "id": 49,
+        "value": "Valencia/Val??ncia"
+      },
+      "city": "Valencia",
+      "link": "https://www.infojobs.net/valencia/jefe-obra-instalaciones/of-ie071d000a54211bb9487793abcfc5b",
+      "category": {
+        "id": 80,
+        "value": "Ingenieros y técnicos"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3049,
+        "value": "Industrial"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 3,
+        "value": "Al menos 3 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 120,
+        "value": "Ingeniería Técnica"
+      },
+      "teleworking": {
+        "id": 1,
+        "value": "Presencial"
+      },
+      "published": "2023-05-11T08:42:35.000Z",
+      "updated": "2023-05-11T08:42:35.000Z",
+      "author": {
+        "id": "a3035308174cdfb884ded9fe637677",
+        "privateId": 35446748762,
+        "name": "Randstad Professionals",
+        "uri": "https://randstad-professionals.ofertas-trabajo.infojobs.net",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/45/454c97fd-3af3-4fb1-b11d-3b00f86fe5f8?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1OTU0MTQ2MjksInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy80NS80NTRjOTdmZC0zYWYzLTRmYjEtYjExZC0zYjAwZjg2ZmU1ZjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.jzFbWnU8VJyWMFB-G4MayJizeEI-yDLszGzZQT0oQbKJlicXj0bqdmq3pxlQjTn1m3z6HkfGEX5NapKAhwRGqVkC0T0WXpQQHEyRTfo1rxzW1GSx9QmJK7LtYdmWuhBMVbepx3CED_DviUbmwgeIDkToCeKHOUCDQhwl3-EC4E0qPqLBFPkFt8VGm_Qovo7R8kOSwa2Qaezfc_xzi6vkaM9pi6zlf7DG_ZY3XBZD2whNVQaDwE_mIsgl2sfRi2V8WwPrKIWAPilPon5w1n6BnyvX9iXns-Mh1QDjlNlNKgiu51FUFTavNBeVynCw7CZmQDJzQp_-sqP1N6PRbH8xgQ&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "executive": false,
+      "salaryDescription": "Más de 30.000€",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "b6dcd72a13475bb9beb6d7e433ac86",
+      "title": "Enfermero/a",
+      "province": {
+        "id": 9,
+        "value": "Barcelona"
+      },
+      "city": "Molins de Rei",
+      "link": "https://www.infojobs.net/molins-de-rei/enfermero/of-ib6dcd72a13475bb9beb6d7e433ac86",
+      "category": {
+        "id": 140,
+        "value": "Sanidad y salud"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3098,
+        "value": "Enfermería"
+      },
+      "salaryMin": {
+        "id": 285,
+        "value": "33.000 €"
+      },
+      "salaryMax": {
+        "id": 290,
+        "value": "36.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 2,
+        "value": "Al menos 1 año"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 125,
+        "value": "Grado"
+      },
+      "teleworking": {
+        "id": 1,
+        "value": "Presencial"
+      },
+      "published": "2023-05-10T14:58:20.000Z",
+      "updated": "2023-05-10T14:58:20.000Z",
+      "author": {
+        "id": "a3035308174cdfb884ded9fe637677",
+        "privateId": 35446748762,
+        "name": "Randstad Professionals",
+        "uri": "https://randstad-professionals.ofertas-trabajo.infojobs.net",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/45/454c97fd-3af3-4fb1-b11d-3b00f86fe5f8?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1OTU0MTQ2MjksInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy80NS80NTRjOTdmZC0zYWYzLTRmYjEtYjExZC0zYjAwZjg2ZmU1ZjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.jzFbWnU8VJyWMFB-G4MayJizeEI-yDLszGzZQT0oQbKJlicXj0bqdmq3pxlQjTn1m3z6HkfGEX5NapKAhwRGqVkC0T0WXpQQHEyRTfo1rxzW1GSx9QmJK7LtYdmWuhBMVbepx3CED_DviUbmwgeIDkToCeKHOUCDQhwl3-EC4E0qPqLBFPkFt8VGm_Qovo7R8kOSwa2Qaezfc_xzi6vkaM9pi6zlf7DG_ZY3XBZD2whNVQaDwE_mIsgl2sfRi2V8WwPrKIWAPilPon5w1n6BnyvX9iXns-Mh1QDjlNlNKgiu51FUFTavNBeVynCw7CZmQDJzQp_-sqP1N6PRbH8xgQ&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "-Grado o diplomatura en enfermería. - Experiencia y master valorable",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "executive": false,
+      "salaryDescription": "33.000€ - 36.000€ Bruto/año",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "a9912f76224bb4ac7e7a319d374539",
+      "title": "Responsable de compras indirectas",
+      "province": {
+        "id": 9,
+        "value": "Barcelona"
+      },
+      "city": "L'Hospitalet de Llobregat",
+      "link": "https://www.infojobs.net/l-hospitalet-de-llobregat/responsable-compras-indirectas/of-ia9912f76224bb4ac7e7a319d374539",
+      "category": {
+        "id": 10,
+        "value": "Administración de empresas"
+      },
+      "contractType": {
+        "id": 8,
+        "value": "De duración determinada"
+      },
+      "subcategory": {
+        "id": 3004,
+        "value": "Facturación, cobros y pagos"
+      },
+      "salaryMin": {
+        "id": 295,
+        "value": "39.000 €"
+      },
+      "salaryMax": {
+        "id": 970,
+        "value": "41.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 3,
+        "value": "Al menos 3 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 125,
+        "value": "Grado"
+      },
+      "teleworking": {
+        "id": 3,
+        "value": "Híbrido"
+      },
+      "published": "2023-05-10T13:29:48.000Z",
+      "updated": "2023-05-10T13:29:48.000Z",
+      "author": {
+        "id": "a3035308174cdfb884ded9fe637677",
+        "privateId": 35446748762,
+        "name": "Randstad Professionals",
+        "uri": "https://randstad-professionals.ofertas-trabajo.infojobs.net",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/45/454c97fd-3af3-4fb1-b11d-3b00f86fe5f8?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1OTU0MTQ2MjksInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy80NS80NTRjOTdmZC0zYWYzLTRmYjEtYjExZC0zYjAwZjg2ZmU1ZjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.jzFbWnU8VJyWMFB-G4MayJizeEI-yDLszGzZQT0oQbKJlicXj0bqdmq3pxlQjTn1m3z6HkfGEX5NapKAhwRGqVkC0T0WXpQQHEyRTfo1rxzW1GSx9QmJK7LtYdmWuhBMVbepx3CED_DviUbmwgeIDkToCeKHOUCDQhwl3-EC4E0qPqLBFPkFt8VGm_Qovo7R8kOSwa2Qaezfc_xzi6vkaM9pi6zlf7DG_ZY3XBZD2whNVQaDwE_mIsgl2sfRi2V8WwPrKIWAPilPon5w1n6BnyvX9iXns-Mh1QDjlNlNKgiu51FUFTavNBeVynCw7CZmQDJzQp_-sqP1N6PRbH8xgQ&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "Grado en finanzas o similar Inglés elevado Experiencia previa en compras Valorable portugues.",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "executive": false,
+      "salaryDescription": "39.000€ - 41.000€ Bruto/año",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "9af674aec94f72bda7a7b0e47d5776",
+      "title": "TÉCNICO RESPONSABLE DE PRL Y MEDIOAMBIENTE",
+      "province": {
+        "id": 49,
+        "value": "Valencia/Val??ncia"
+      },
+      "city": "Gandia",
+      "link": "https://www.infojobs.net/gandia/tecnico-responsable-prl-medioambiente/of-i9af674aec94f72bda7a7b0e47d5776",
+      "category": {
+        "id": 130,
+        "value": "Recursos humanos"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3095,
+        "value": "Prevención de riesgos"
+      },
+      "salaryMin": {
+        "id": 1350,
+        "value": "28.000 €"
+      },
+      "salaryMax": {
+        "id": 285,
+        "value": "33.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 3,
+        "value": "Al menos 3 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 147,
+        "value": "Máster"
+      },
+      "teleworking": {
+        "id": 3,
+        "value": "Híbrido"
+      },
+      "published": "2023-05-09T18:31:47.000Z",
+      "updated": "2023-05-09T18:31:47.000Z",
+      "author": {
+        "id": "a3035308174cdfb884ded9fe637677",
+        "privateId": 35446748762,
+        "name": "Randstad Professionals",
+        "uri": "https://randstad-professionals.ofertas-trabajo.infojobs.net",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/45/454c97fd-3af3-4fb1-b11d-3b00f86fe5f8?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1OTU0MTQ2MjksInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy80NS80NTRjOTdmZC0zYWYzLTRmYjEtYjExZC0zYjAwZjg2ZmU1ZjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.jzFbWnU8VJyWMFB-G4MayJizeEI-yDLszGzZQT0oQbKJlicXj0bqdmq3pxlQjTn1m3z6HkfGEX5NapKAhwRGqVkC0T0WXpQQHEyRTfo1rxzW1GSx9QmJK7LtYdmWuhBMVbepx3CED_DviUbmwgeIDkToCeKHOUCDQhwl3-EC4E0qPqLBFPkFt8VGm_Qovo7R8kOSwa2Qaezfc_xzi6vkaM9pi6zlf7DG_ZY3XBZD2whNVQaDwE_mIsgl2sfRi2V8WwPrKIWAPilPon5w1n6BnyvX9iXns-Mh1QDjlNlNKgiu51FUFTavNBeVynCw7CZmQDJzQp_-sqP1N6PRbH8xgQ&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "Formación: Ingeniero Técnico, Licenciado, Ingeniero Superior, Idiomas: Inglés: C1 Conocimientos: , Máster en Prevención de Riesgos Laborales (3 especialidades) Experiencia en servicios de prevención propios y coordinación de servicio de prevención ajeno. Experiencia: 3 años",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "executive": false,
+      "salaryDescription": "28.000€ - 33.000€ Bruto/año",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "de8996b23947eb877d033f783a952d",
+      "title": "Técnico/a Compras",
+      "province": {
+        "id": 4,
+        "value": "Alicante/Alacant"
+      },
+      "city": "Alicante/Alacant",
+      "link": "https://www.infojobs.net/alicante-alacant/tecnico-compras/of-ide8996b23947eb877d033f783a952d",
+      "category": {
+        "id": 40,
+        "value": "Compras, logística y almacén"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3024,
+        "value": "Compras y aprovisionamiento"
+      },
+      "salaryMin": {
+        "id": 270,
+        "value": "24.000 €"
+      },
+      "salaryMax": {
+        "id": 280,
+        "value": "30.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 3,
+        "value": "Al menos 3 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 140,
+        "value": "Licenciatura"
+      },
+      "teleworking": {
+        "id": 1,
+        "value": "Presencial"
+      },
+      "published": "2023-05-09T14:17:12.000Z",
+      "updated": "2023-05-09T14:17:12.000Z",
+      "author": {
+        "id": "a3035308174cdfb884ded9fe637677",
+        "privateId": 35446748762,
+        "name": "Randstad Professionals",
+        "uri": "https://randstad-professionals.ofertas-trabajo.infojobs.net",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/45/454c97fd-3af3-4fb1-b11d-3b00f86fe5f8?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1OTU0MTQ2MjksInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy80NS80NTRjOTdmZC0zYWYzLTRmYjEtYjExZC0zYjAwZjg2ZmU1ZjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.jzFbWnU8VJyWMFB-G4MayJizeEI-yDLszGzZQT0oQbKJlicXj0bqdmq3pxlQjTn1m3z6HkfGEX5NapKAhwRGqVkC0T0WXpQQHEyRTfo1rxzW1GSx9QmJK7LtYdmWuhBMVbepx3CED_DviUbmwgeIDkToCeKHOUCDQhwl3-EC4E0qPqLBFPkFt8VGm_Qovo7R8kOSwa2Qaezfc_xzi6vkaM9pi6zlf7DG_ZY3XBZD2whNVQaDwE_mIsgl2sfRi2V8WwPrKIWAPilPon5w1n6BnyvX9iXns-Mh1QDjlNlNKgiu51FUFTavNBeVynCw7CZmQDJzQp_-sqP1N6PRbH8xgQ&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "executive": false,
+      "salaryDescription": "24.000€ - 30.000€ Bruto/año",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "33404167d44a06bd7acbd9f359d6eb",
+      "title": "Controller comercial - business analyst",
+      "province": {
+        "id": 9,
+        "value": "Barcelona"
+      },
+      "city": "Cornellà de Llobregat",
+      "link": "https://www.infojobs.net/cornella-de-llobregat/controller-comercial-business-analyst/of-i33404167d44a06bd7acbd9f359d6eb",
+      "category": {
+        "id": 10,
+        "value": "Administración de empresas"
+      },
+      "contractType": {
+        "id": 8,
+        "value": "De duración determinada"
+      },
+      "subcategory": {
+        "id": 3005,
+        "value": "Finanzas y contabilidad"
+      },
+      "salaryMin": {
+        "id": 285,
+        "value": "33.000 €"
+      },
+      "salaryMax": {
+        "id": 290,
+        "value": "36.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 2,
+        "value": "Al menos 1 año"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 125,
+        "value": "Grado"
+      },
+      "teleworking": {
+        "id": 3,
+        "value": "Híbrido"
+      },
+      "published": "2023-05-09T10:42:12.000Z",
+      "updated": "2023-05-09T10:42:12.000Z",
+      "author": {
+        "id": "a3035308174cdfb884ded9fe637677",
+        "privateId": 35446748762,
+        "name": "Randstad Professionals",
+        "uri": "https://randstad-professionals.ofertas-trabajo.infojobs.net",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/45/454c97fd-3af3-4fb1-b11d-3b00f86fe5f8?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1OTU0MTQ2MjksInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy80NS80NTRjOTdmZC0zYWYzLTRmYjEtYjExZC0zYjAwZjg2ZmU1ZjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.jzFbWnU8VJyWMFB-G4MayJizeEI-yDLszGzZQT0oQbKJlicXj0bqdmq3pxlQjTn1m3z6HkfGEX5NapKAhwRGqVkC0T0WXpQQHEyRTfo1rxzW1GSx9QmJK7LtYdmWuhBMVbepx3CED_DviUbmwgeIDkToCeKHOUCDQhwl3-EC4E0qPqLBFPkFt8VGm_Qovo7R8kOSwa2Qaezfc_xzi6vkaM9pi6zlf7DG_ZY3XBZD2whNVQaDwE_mIsgl2sfRi2V8WwPrKIWAPilPon5w1n6BnyvX9iXns-Mh1QDjlNlNKgiu51FUFTavNBeVynCw7CZmQDJzQp_-sqP1N6PRbH8xgQ&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "Valorable conocimientos en business intelligence y SAP",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "executive": false,
+      "salaryDescription": "33.000€ - 36.000€ Bruto/año",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "85d4c264f04f26b63c5242b48c9971",
+      "title": "Responsable de Proyectos e Ingeniería Eléctrica - Pontevedra",
+      "province": {
+        "id": 40,
+        "value": "Pontevedra"
+      },
+      "city": "Vigo",
+      "link": "https://www.infojobs.net/vigo/responsable-proyectos-ingenieria-electrica-pontevedra/of-i85d4c264f04f26b63c5242b48c9971",
+      "category": {
+        "id": 80,
+        "value": "Ingenieros y técnicos"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3047,
+        "value": "Electrónica y automática industrial"
+      },
+      "salaryMin": {
+        "id": 460,
+        "value": "56.000 €"
+      },
+      "salaryMax": {
+        "id": 330,
+        "value": "60.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 4,
+        "value": "Al menos 4 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 125,
+        "value": "Grado"
+      },
+      "teleworking": {
+        "id": 3,
+        "value": "Híbrido"
+      },
+      "published": "2023-05-09T08:59:34.000Z",
+      "updated": "2023-05-09T08:59:34.000Z",
+      "author": {
+        "id": "a3035308174cdfb884ded9fe637677",
+        "privateId": 35446748762,
+        "name": "Randstad Professionals",
+        "uri": "https://randstad-professionals.ofertas-trabajo.infojobs.net",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/45/454c97fd-3af3-4fb1-b11d-3b00f86fe5f8?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1OTU0MTQ2MjksInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy80NS80NTRjOTdmZC0zYWYzLTRmYjEtYjExZC0zYjAwZjg2ZmU1ZjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.jzFbWnU8VJyWMFB-G4MayJizeEI-yDLszGzZQT0oQbKJlicXj0bqdmq3pxlQjTn1m3z6HkfGEX5NapKAhwRGqVkC0T0WXpQQHEyRTfo1rxzW1GSx9QmJK7LtYdmWuhBMVbepx3CED_DviUbmwgeIDkToCeKHOUCDQhwl3-EC4E0qPqLBFPkFt8VGm_Qovo7R8kOSwa2Qaezfc_xzi6vkaM9pi6zlf7DG_ZY3XBZD2whNVQaDwE_mIsgl2sfRi2V8WwPrKIWAPilPon5w1n6BnyvX9iXns-Mh1QDjlNlNKgiu51FUFTavNBeVynCw7CZmQDJzQp_-sqP1N6PRbH8xgQ&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "-Formación en Ingeniería Industrial, especialidad en Electricidad, o Grado en Ingeniería Eléctrica. - Experiencia de mínimo 5 años realizando funciones similares. - Experto en gestión de proyectos e ingeniería eléctrica. - Conocimiento del REBT, movilidad eléctrica, redes y telecomunicaciones. - Nivel de inglés alto: C1. - Disponibilidad para viajar de manera ocasional. - Iniciativa y orientación a resultados. - Capacidad de liderazgo de equipo. - Habilidades comunicativas y de negociación. - Capacidades organizativas y orientación al detalle.",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 31,
+      "executive": true,
+      "salaryDescription": "56.000€ - 60.000€ Bruto/año",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "1ea8c232764abcb019c1b4fe3e455e",
+      "title": "BACK OFFICE EXPORT",
+      "province": {
+        "id": 9,
+        "value": "Barcelona"
+      },
+      "city": "Barcelona",
+      "link": "https://www.infojobs.net/barcelona/back-office-export/of-i1ea8c232764abcb019c1b4fe3e455e",
+      "category": {
+        "id": 170,
+        "value": "Atención a clientes"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3118,
+        "value": "Atención al cliente"
+      },
+      "salaryMin": {
+        "id": 1330,
+        "value": "25.000 €"
+      },
+      "salaryMax": {
+        "id": 275,
+        "value": "27.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 2,
+        "value": "Al menos 1 año"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 35,
+        "value": "Ciclo Formativo Grado Medio"
+      },
+      "teleworking": {
+        "id": 3,
+        "value": "Híbrido"
+      },
+      "published": "2023-05-09T08:14:43.000Z",
+      "updated": "2023-05-09T08:14:43.000Z",
+      "author": {
+        "id": "a3035308174cdfb884ded9fe637677",
+        "privateId": 35446748762,
+        "name": "Randstad Professionals",
+        "uri": "https://randstad-professionals.ofertas-trabajo.infojobs.net",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/45/454c97fd-3af3-4fb1-b11d-3b00f86fe5f8?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1OTU0MTQ2MjksInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy80NS80NTRjOTdmZC0zYWYzLTRmYjEtYjExZC0zYjAwZjg2ZmU1ZjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.jzFbWnU8VJyWMFB-G4MayJizeEI-yDLszGzZQT0oQbKJlicXj0bqdmq3pxlQjTn1m3z6HkfGEX5NapKAhwRGqVkC0T0WXpQQHEyRTfo1rxzW1GSx9QmJK7LtYdmWuhBMVbepx3CED_DviUbmwgeIDkToCeKHOUCDQhwl3-EC4E0qPqLBFPkFt8VGm_Qovo7R8kOSwa2Qaezfc_xzi6vkaM9pi6zlf7DG_ZY3XBZD2whNVQaDwE_mIsgl2sfRi2V8WwPrKIWAPilPon5w1n6BnyvX9iXns-Mh1QDjlNlNKgiu51FUFTavNBeVynCw7CZmQDJzQp_-sqP1N6PRbH8xgQ&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 23,
+      "executive": false,
+      "salaryDescription": "25.000€ - 27.000€ Bruto/año",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "61120866484eb795a14b62f03fd53d",
+      "title": "Técnico-a laboral gestoria",
+      "province": {
+        "id": 19,
+        "value": "Girona"
+      },
+      "city": "Figueres",
+      "link": "https://www.infojobs.net/figueres/tecnico-laboral-gestoria/of-i61120866484eb795a14b62f03fd53d",
+      "category": {
+        "id": 130,
+        "value": "Recursos humanos"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3096,
+        "value": "Relaciones laborales"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 6,
+        "value": "Al menos 2 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 35,
+        "value": "Ciclo Formativo Grado Medio"
+      },
+      "teleworking": {
+        "id": 1,
+        "value": "Presencial"
+      },
+      "published": "2023-05-08T13:42:12.000Z",
+      "updated": "2023-05-08T13:42:12.000Z",
+      "author": {
+        "id": "a3035308174cdfb884ded9fe637677",
+        "privateId": 35446748762,
+        "name": "Randstad Professionals",
+        "uri": "https://randstad-professionals.ofertas-trabajo.infojobs.net",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/45/454c97fd-3af3-4fb1-b11d-3b00f86fe5f8?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1OTU0MTQ2MjksInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy80NS80NTRjOTdmZC0zYWYzLTRmYjEtYjExZC0zYjAwZjg2ZmU1ZjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.jzFbWnU8VJyWMFB-G4MayJizeEI-yDLszGzZQT0oQbKJlicXj0bqdmq3pxlQjTn1m3z6HkfGEX5NapKAhwRGqVkC0T0WXpQQHEyRTfo1rxzW1GSx9QmJK7LtYdmWuhBMVbepx3CED_DviUbmwgeIDkToCeKHOUCDQhwl3-EC4E0qPqLBFPkFt8VGm_Qovo7R8kOSwa2Qaezfc_xzi6vkaM9pi6zlf7DG_ZY3XBZD2whNVQaDwE_mIsgl2sfRi2V8WwPrKIWAPilPon5w1n6BnyvX9iXns-Mh1QDjlNlNKgiu51FUFTavNBeVynCw7CZmQDJzQp_-sqP1N6PRbH8xgQ&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 23,
+      "executive": false,
+      "salaryDescription": "Salario no disponible",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "f6a8d7f9094670ad98a0ba5d6b9904",
+      "title": "Ingeniero/a Industrial Mecánico - Madrid Sur",
+      "province": {
+        "id": 33,
+        "value": "Madrid"
+      },
+      "city": "Humanes de Madrid",
+      "link": "https://www.infojobs.net/humanes-de-madrid/ingeniero-industrial-mecanico-madrid-sur/of-if6a8d7f9094670ad98a0ba5d6b9904",
+      "category": {
+        "id": 80,
+        "value": "Ingenieros y técnicos"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3049,
+        "value": "Industrial"
+      },
+      "salaryMin": {
+        "id": 1310,
+        "value": "22.000 €"
+      },
+      "salaryMax": {
+        "id": 1310,
+        "value": "22.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 1,
+        "value": "No Requerida"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 120,
+        "value": "Ingeniería Técnica"
+      },
+      "teleworking": {
+        "id": 1,
+        "value": "Presencial"
+      },
+      "published": "2023-05-08T10:07:43.000Z",
+      "updated": "2023-05-08T10:07:43.000Z",
+      "author": {
+        "id": "a3035308174cdfb884ded9fe637677",
+        "privateId": 35446748762,
+        "name": "Randstad Professionals",
+        "uri": "https://randstad-professionals.ofertas-trabajo.infojobs.net",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/45/454c97fd-3af3-4fb1-b11d-3b00f86fe5f8?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1OTU0MTQ2MjksInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy80NS80NTRjOTdmZC0zYWYzLTRmYjEtYjExZC0zYjAwZjg2ZmU1ZjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.jzFbWnU8VJyWMFB-G4MayJizeEI-yDLszGzZQT0oQbKJlicXj0bqdmq3pxlQjTn1m3z6HkfGEX5NapKAhwRGqVkC0T0WXpQQHEyRTfo1rxzW1GSx9QmJK7LtYdmWuhBMVbepx3CED_DviUbmwgeIDkToCeKHOUCDQhwl3-EC4E0qPqLBFPkFt8VGm_Qovo7R8kOSwa2Qaezfc_xzi6vkaM9pi6zlf7DG_ZY3XBZD2whNVQaDwE_mIsgl2sfRi2V8WwPrKIWAPilPon5w1n6BnyvX9iXns-Mh1QDjlNlNKgiu51FUFTavNBeVynCw7CZmQDJzQp_-sqP1N6PRbH8xgQ&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "Titulación Grado en Ingeniería Industrial (Mecánica/Estructuras). Manejo de herramientas de diseño CAD 3D y Revit. Nivel alto de Ingles. Valorable Alemán. Valorable manejo de programas de cálculo de estructuras. Manejo de paquete Office.",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "executive": false,
+      "salaryDescription": "22.000€ - 22.000€ Bruto/año",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "1c85ebb1414adb9893455a69c4e00e",
+      "title": "Técnico Mantenimiento eléctrico- electrónico",
+      "province": {
+        "id": 9,
+        "value": "Barcelona"
+      },
+      "city": "Barcelona",
+      "link": "https://www.infojobs.net/barcelona/tecnico-mantenimiento-electrico-electronico/of-i1c85ebb1414adb9893455a69c4e00e",
+      "category": {
+        "id": 80,
+        "value": "Ingenieros y técnicos"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3046,
+        "value": "Electrónica"
+      },
+      "salaryMin": {
+        "id": 280,
+        "value": "30.000 €"
+      },
+      "salaryMax": {
+        "id": 285,
+        "value": "33.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 3,
+        "value": "Al menos 3 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 60,
+        "value": "Ciclo Formativo Grado Superior"
+      },
+      "teleworking": {
+        "id": 1,
+        "value": "Presencial"
+      },
+      "published": "2023-05-08T09:37:02.000Z",
+      "updated": "2023-05-08T09:37:02.000Z",
+      "author": {
+        "id": "a3035308174cdfb884ded9fe637677",
+        "privateId": 35446748762,
+        "name": "Randstad Professionals",
+        "uri": "https://randstad-professionals.ofertas-trabajo.infojobs.net",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/45/454c97fd-3af3-4fb1-b11d-3b00f86fe5f8?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1OTU0MTQ2MjksInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy80NS80NTRjOTdmZC0zYWYzLTRmYjEtYjExZC0zYjAwZjg2ZmU1ZjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.jzFbWnU8VJyWMFB-G4MayJizeEI-yDLszGzZQT0oQbKJlicXj0bqdmq3pxlQjTn1m3z6HkfGEX5NapKAhwRGqVkC0T0WXpQQHEyRTfo1rxzW1GSx9QmJK7LtYdmWuhBMVbepx3CED_DviUbmwgeIDkToCeKHOUCDQhwl3-EC4E0qPqLBFPkFt8VGm_Qovo7R8kOSwa2Qaezfc_xzi6vkaM9pi6zlf7DG_ZY3XBZD2whNVQaDwE_mIsgl2sfRi2V8WwPrKIWAPilPon5w1n6BnyvX9iXns-Mh1QDjlNlNKgiu51FUFTavNBeVynCw7CZmQDJzQp_-sqP1N6PRbH8xgQ&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "Experiencia mínima de 3 años como técnico de mantenimiento . Experiencia en eléctrica- electrónica y mecánica. Automatización industrial de finales de linea (envasado y paletizado de automatismos).  Experiencia en diagnosticar averías  Nivel de inglés alto  Persona con iniciativa y que sepa tomar decisiones",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "executive": false,
+      "salaryDescription": "30.000€ - 33.000€ Bruto/año",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    }
+  ]
+}
