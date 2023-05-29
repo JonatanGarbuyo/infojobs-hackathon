@@ -1,8 +1,5 @@
 import NextAuth from 'next-auth'
 
-const INFOJOBS_CLIENT_ID = process.env.INFOJOBS_CLIENT_ID
-const INFOJOBS_CLIENT_SECRET = process.env.INFOJOBS_CLIENT_SECRET
-const INFOJOBS_REDIRECT_URI = process.env.INFOJOBS_REDIRECT_URI
 const AUTHORIZATION_URL =
   'https://www.infojobs.net/api/oauth/user-authorize/index.xhtml'
 const SCOPE =
@@ -18,13 +15,13 @@ const handler = NextAuth({
       type: 'oauth',
       version: '2.0',
       checks: ['none'],
-      clientId: INFOJOBS_CLIENT_ID,
-      clientSecret: INFOJOBS_CLIENT_SECRET,
+      clientId: process.env.INFOJOBS_CLIENT_ID,
+      clientSecret: process.env.INFOJOBS_CLIENT_SECRET,
       authorization: {
         url: AUTHORIZATION_URL,
         params: {
           scope: SCOPE,
-          redirect_uri: INFOJOBS_REDIRECT_URI,
+          redirect_uri: process.env.INFOJOBS_REDIRECT_URI,
           response_type: 'code'
           // state: 'OPTIONAL_CLIENT_LOCAL_STATE'
         }
@@ -37,12 +34,15 @@ const handler = NextAuth({
           tokenUrl.searchParams.append('code', params.code ?? '')
           tokenUrl.searchParams.append(
             'redirect_uri',
-            `${INFOJOBS_REDIRECT_URI}` ?? ''
+            `${process.env.INFOJOBS_REDIRECT_URI}` ?? ''
           )
-          tokenUrl.searchParams.append('client_id', INFOJOBS_CLIENT_ID ?? '')
+          tokenUrl.searchParams.append(
+            'client_id',
+            process.env.INFOJOBS_CLIENT_ID ?? ''
+          )
           tokenUrl.searchParams.append(
             'client_secret',
-            INFOJOBS_CLIENT_SECRET ?? ''
+            process.env.INFOJOBS_CLIENT_SECRET ?? ''
           )
           const response = await fetch(tokenUrl.toString(), {
             method: 'POST'
@@ -55,7 +55,7 @@ const handler = NextAuth({
         userinfo: {
           async request({ tokens }) {
             const basicToken = `Basic ${Buffer.from(
-              `${INFOJOBS_CLIENT_ID}:${INFOJOBS_CLIENT_SECRET}`
+              `${process.env.INFOJOBS_CLIENT_ID}:${process.env.INFOJOBS_CLIENT_SECRET}`
             ).toString('base64')}`
             const bearerToken = `Bearer ${tokens.access_token}`
             const response = await fetch(USER_INFO_URL, {
