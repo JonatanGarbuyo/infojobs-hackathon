@@ -1,5 +1,6 @@
 import { Roboto } from 'next/font/google'
 
+import Providers from '@/providers/providers'
 import Header from '@/components/header/Header'
 import NavBar from '@/components/navbar/NavBar'
 import Footer from '@/components/footer/Footer'
@@ -24,13 +25,15 @@ export default function RootLayout({ children }) {
         <meta name='viewport' content='initial-scale=1, width=device-width' />
       </head>
       <body className={roboto.className}>
-        <Header />
-        <main>
-          {/* <NavBar /> */}
-          {children}
-        </main>
+        <Providers>
+          <Header />
+          <main>
+            {/* <NavBar /> */}
+            {children}
+          </main>
 
-        <Footer />
+          <Footer />
+        </Providers>
       </body>
     </html>
   )
