@@ -1,0 +1,10 @@
+.container {
+  background-color: var(--color-white);
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  margin-inline: auto;
+  max-width: min(100%, 1440px);
+  padding: 12px;
+}
