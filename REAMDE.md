@@ -89,8 +89,8 @@ Tambien, cuenta con una vista detallada de la oferta en la cual organizar el est
 
 ### Screenshots
 
-![screenshot.jpg](./screenshot.png)  
-![screenshot-kanban.jpg](./screenshot-kanban.png)
+![screenshot](./screenshot.png)  
+![screenshot-kanban](./screenshot-kanban.png)
 
 ### Links
 
